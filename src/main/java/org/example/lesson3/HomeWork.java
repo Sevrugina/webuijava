@@ -10,7 +10,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import java.time.Duration;
 
 
-// Проверка на сайте https://afisha.relax.by/ работы вкладок "Кино",а затем "Фантастика"
+//   Проверка на сайте https://afisha.relax.by/ работы вкладок "Кино",а затем "Фантастика"
 
 public class HomeWork {
     public static void main(String[] args) throws InterruptedException {
